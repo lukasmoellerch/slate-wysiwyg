@@ -8,6 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "cssnano": "^4.1.10",
     "react-app-polyfill": "^1.0.6"
   },
   "alias": {

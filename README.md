@@ -25,3 +25,5 @@
 ## Demo
 
 A demo application that is using parcel as a bundler can be found in the example directory.
+
+A live demo is deployed using surge: [slate-wysiwyg.surge.sh](http://slate-wysiwyg.surge.sh) (Might not always be up to date)
